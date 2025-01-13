@@ -1,0 +1,1 @@
+This project is a real-time license plate detection system built using the Haar Cascade Classifier in OpenCV. The application captures video input from a webcam, detects license plates in real-time, and allows users to save the detected plate region of interest (ROI) by pressing the s key.
